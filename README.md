@@ -1,2 +1,3 @@
 # Data_Bootcamp_Final_Project
-Data for NYU Stern final project for Data Bootcamp
+
+This project was completed by Michael Ttappous
